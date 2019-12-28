@@ -1,5 +1,5 @@
 # Terrain generation
-Procedurally generated terrain using the perlin noise algorithm in python.
+Randomly and procedurally generated terrain using the perlin noise algorithm in python.
 
 Python 3.4.4, pygame 1.9.2 and the python noise module are required to run the scripts.
 
